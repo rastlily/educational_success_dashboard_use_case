@@ -11,6 +11,7 @@
 
 Dieses Projekt zeigt, wie Region, sozio-ökonomischer Status, Geschlecht und Migrationshintergrund den Bildungserfolg in Deutschland beeinflussen.  
 Die Daten wurden in Excel vorbereitet und in Python (Pandas) bereinigt und normalisiert. Die fertigen Daten flossen dann in die interaktive Visualisierung mit Tableau ein.
+
 ---
 
 ## 🎬 Dashboard-Demo
