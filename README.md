@@ -40,11 +40,7 @@ Die Daten wurden aus Rohformaten bereinigt und transformiert — sowohl manuell 
 ---
 
 ## 📊 Dashboard & Visualisierung
-
-- Interaktive Tableau-Dashboards mit Filtermöglichkeiten nach Region, Geschlecht, Schulabschluss und Jahr  
-- Heatmaps, Kreisdiagramme, Zeitreihen-Diagramme  
-- Vergleich absoluter und relativer Werte  
-
+ 
 🎬 **Dashboard-Demo**  
 
 > [Live-Ansicht hier](https://public.tableau.com/views/BildungserfolginDeutschlandRegionalesozialeundmigrationsbedingteUngleichheiten_/RegionaleBildungsunterschiedeinDeutschlandEntwicklung20132022_?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
