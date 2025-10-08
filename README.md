@@ -1,34 +1,34 @@
-# Bildungserfolg in Deutschland (Tableau Dashboard & Analyse)  
-
-**Ziel:**
+# Bildungserfolg in Deutschland (Tableau Dashboard & Analyse)    
+  
+**Ziel:**  
 Handlungsrelevante Einblicke in Bildungsungleichheiten in Deutschland liefern und datenbasierte Strategien zur Förderung von Bildungs- und Chancengerechtigkeit unterstützen.
-
-**Problemstellung:**
+  
+**Problemstellung:**  
 Muster und Unterschiede im Bildungserfolg in Bezug auf Region, Geschlecht, sozioökonomischen Status und Migrationshintergrund identifizieren.
-
-**Workflow:**  
-
+  
+**Workflow:**    
+   
 #### Datensammlung --> Datenbereinigung und Normalisierung --> Tableau Dashboard & Visualisierungen --> Presentation (Insights)
-
-**Tech Stack:**
+   
+**Tech Stack:**  
 Python, Pandas, Excel, Tableau, Jupyter Notebook
-
-**Dashboard & Präsentation:**  
-
+  
+**Dashboard & Präsentation:**    
+  
 - [Live-Ansicht hier](https://public.tableau.com/views/BildungserfolginDeutschlandRegionalesozialeundmigrationsbedingteUngleichheiten_/RegionaleBildungsunterschiedeinDeutschlandEntwicklung20132022_?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
-
-![Dashboard GIF](visual/animation.gif) 
-
+  
+![Dashboard GIF](visual/animation.gif)   
+  
 - Der Tableau Workbook kann auf **Tableau Public** heruntergeladen werden, wo auch der Dashboard interaktiv verfügbar ist.
-- [Präsentation ansehen / herunterladen (PDF)](presentation/bildungserfolg_presentation) 
-
-**Dateien & Struktur:**
+- [Präsentation ansehen / herunterladen (PDF)](presentation/bildungserfolg_presentation)   
+  
+**Dateien & Struktur:**  
 - `data/` – Roh- und bereinigte Datensätze  
 - `notebook/` – Jupyter Notebooks (Normalisierung + vollständige Analyse)  
 - `presentation/` – finale Präsentation (PDF)
 - `visual/` – Bilder und Screenshots der Tableau-Dashboards 
-
-**Autoren:** 
+  
+**Autoren:**   
    
 Liliia Rastorhuieva – Datenbereinigung, Datenanalyse und Visualisierung (Tableau)  
 Christoph Müller – Datensammlung, Quellenrecherche und Präsentationserstellung
