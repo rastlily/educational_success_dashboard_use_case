@@ -23,14 +23,14 @@ Python, Pandas, Excel, Tableau, Jupyter Notebook
 - [Präsentation ansehen / herunterladen (PDF)](presentation/bildungserfolg_presentation.pdf)   
   
 **Dateien & Struktur:**  
-- `data/` – Roh- und bereinigte Datensätze  
-- `notebook/` – Jupyter Notebooks (Normalisierung + vollständige Analyse)  
-- `presentation/` – finale Präsentation (PDF)
-- `visual/` – Bilder und Screenshots der Tableau-Dashboards 
+- `data/` - Roh- und bereinigte Datensätze  
+- `notebook/` - Jupyter Notebooks (Normalisierung + vollständige Analyse)  
+- `presentation/` - finale Präsentation (PDF)
+- `visual/` - Bilder und Screenshots der Tableau-Dashboards 
   
 **Autoren:**   
    
-Liliia Rastorhuieva – Datenbereinigung, Datenanalyse und Visualisierung (Tableau)  
-Christoph Müller – Datensammlung, Quellenrecherche und Präsentationserstellung
+Liliia Rastorhuieva - Datenbereinigung, Datenanalyse und Visualisierung (Tableau)  
+Christoph Müller - Datensammlung, Quellenrecherche und Präsentationserstellung
 
 
