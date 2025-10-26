@@ -20,7 +20,7 @@ Python, Pandas, Excel, Tableau, Jupyter Notebook
   
 - Der Tableau Workbook kann auf  [Tableau Public](https://public.tableau.com/views/BildungserfolginDeutschlandRegionalesozialeundmigrationsbedingteUngleichheiten_/RegionaleBildungsunterschiedeinDeutschlandEntwicklung20132022_?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  heruntergeladen werden, wo auch der Dashboard interaktiv verfügbar ist.
     
-- [Präsentation ansehen / herunterladen (PDF)](presentation/bildungserfolg_presentation)   
+- [Präsentation ansehen / herunterladen (PDF)](presentation/bildungserfolg_presentation.pdf)   
   
 **Dateien & Struktur:**  
 - `data/` – Roh- und bereinigte Datensätze  
