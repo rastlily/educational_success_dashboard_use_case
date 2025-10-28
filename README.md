@@ -4,7 +4,10 @@
 Handlungsrelevante Einblicke in Bildungsungleichheiten in Deutschland liefern und datenbasierte Strategien zur Förderung von Bildungs- und Chancengerechtigkeit unterstützen.
   
 **Problemstellung:**  
-Muster und Unterschiede im Bildungserfolg in Bezug auf Region, Geschlecht, sozioökonomischen Status und Migrationshintergrund identifizieren.
+Muster und Unterschiede im Bildungserfolg in Bezug auf Region, Geschlecht, sozioökonomischen Status und Migrationshintergrund identifizieren.  
+
+**Datenübersicht:**  
+~1.679 Zeilen in 5 Tabellen zu elterlicher Bildung, Schulstatistiken, Gymnasialempfehlungen, Migrationshintergrund und Schulabschluss der Eltern.
   
 **Workflow:**    
 Datensammlung --> Datenbereinigung und Normalisierung --> Tableau Dashboard & Visualisierungen --> Presentation (Insights)
